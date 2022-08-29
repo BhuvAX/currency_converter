@@ -1,0 +1,5 @@
+name: Currency converter
+type: module
+description: 'Custom rest resource provides currency api layer' 
+package: Custom
+core_version_requirement: ^8.9 || ^9
